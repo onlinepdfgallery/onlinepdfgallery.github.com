@@ -1,2 +1,2 @@
-# onlinepdfgallery.github.com
+# onlinepdfgallery.github.io
 Website for PDFs
