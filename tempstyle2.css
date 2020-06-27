@@ -26,9 +26,10 @@ header {
 }
 nav {
   background-color: rgba(0, 0, 0, 0.6);
-  color:white;
-  text-align:center;
+display:inline;
 }
+.logo .menu{
+  color:white;
 .template {
   width: 100%;
   height: auto;
