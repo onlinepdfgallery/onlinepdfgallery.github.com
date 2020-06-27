@@ -100,13 +100,12 @@ div div a {
   text-align: center;
   padding: 25px;
 }
-/* @media screen and (max-width: 600px) {
+ @media screen and (max-width: 600px) {
   .mainsection {
     display: no flex;
-  } */
-  /*   .menu {
-    width: 55%;
-  } */
+  }
+  
+  
 }
 /* .............End of menu bar..........  */
 /* .......................End of navigation bar................... */
