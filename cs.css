@@ -85,7 +85,7 @@ div div a {
 /* .............End of menu bar..........  */
 /* .......................End of navigation bar................... */
 div p {
-  padding: 5px;
+  padding: auto;
 }
 .sem{
   display: flex;
