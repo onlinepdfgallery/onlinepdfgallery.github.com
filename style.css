@@ -68,14 +68,14 @@ nav section a{
 .template1 {
   margin-bottom: 10px;
   /* background-color: hotpink; */
-  background-image: url("https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"),
+  background-image: url("https://cdn.pixabay.com/photo/2015/06/08/15/11/typewriter-801921__340.jpg"),
     linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1));
   background-size: cover;
 }
 .template2 {
   margin-bottom: 10px;
   /* background-color: khaki; */
-  background-image: url("https://images.pexels.com/photos/3368816/pexels-photo-3368816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"),
+  background-image: url("https://cdn.pixabay.com/photo/2016/03/09/09/14/books-1245690__340.jpg"),
     linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1));
   background-attachment: cover;
 }
@@ -232,7 +232,7 @@ main {
   margin-top: 15px;
   margin-bottom: 15px;
   margin-left: 10px;
-  color: aliceblue;
+  color: black;
 }
 footer{
   position: relative ;
